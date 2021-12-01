@@ -7,3 +7,4 @@ I'm a fan of golf- and I've ***codified*** several of the responses I say to mys
 > + "Crushed that drive"
 > + "Sunk that putt"
 > + "Hooked that shot"
+# Mixed_Messages
