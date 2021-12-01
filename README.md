@@ -2,8 +2,8 @@
 A program to return a random response using JS
 
 ## Technologies
-Javasript
-Node
++ JS
++ Node
 
 ## Code description:
 The code is pretty basic, and is outlined in these steps:
