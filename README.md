@@ -15,3 +15,5 @@ The code is pretty basic, and is outlined in these steps:
 To run the code, execute the following command in terminal:
 "node mixed_messages.js"
 
+## Codecademy
+This is a project for Codecademy Full Stack Engineering course, it's primary function is to teach how to code locally and use git/github for version control.
